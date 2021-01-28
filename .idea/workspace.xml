@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abd184a7-d02d-4943-9941-58bfb2401209" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/view/business/customer/customerManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/view/business/customer/customerManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/view/business/rent/rentManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/view/business/rent/rentManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/view/system/main/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/view/system/main/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sxt/bus/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sxt/bus/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sxt/bus/service/impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sxt/bus/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sxt/stat/controller/StatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sxt/stat/controller/StatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sxt/sys/constast/SysConstast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sxt/sys/constast/SysConstast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sxt/sys/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sxt/sys/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sxt/sys/vo/UserVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sxt/sys/vo/UserVo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hiAUvTStf06i8kaxfjGaXiQsrr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\12741\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\【SSM+layui的汽车出租项目】视频教程源码文件【雷哥】\04第一个项目smm项目\08\0328carrent" />
+          <option name="myCopyRoot" value="C:\【SSM+layui的汽车出租项目】视频教程源码文件【雷哥】\04第一个项目smm项目\08\0328carrent" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\【SSM+layui的汽车出租项目】视频教程源码文件【雷哥】\04第一个项目smm项目\08\0328carrent" />
+          <option name="myCopyRoot" value="C:\【SSM+layui的汽车出租项目】视频教程源码文件【雷哥】\04第一个项目smm项目\08\0328carrent" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd184a7-d02d-4943-9941-58bfb2401209" name="Default Changelist" comment="" />
+      <created>1600483573384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600483573384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600483732741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600483732741" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1600483883024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600483883024" />
+  </component>
+</project>
